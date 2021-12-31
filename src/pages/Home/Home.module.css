@@ -1,0 +1,26 @@
+*{
+    overflow: hidden;
+    height: 100%;
+}
+.mainHomeContainer {
+  width: 100%;
+  background: url(../../assets/image/food2.jpg) #000 no-repeat center;
+  background-size: 100% auto;
+  background-attachment: fixed;
+  background-size: cover;
+
+  height: 100%;
+
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.imgCircle {
+  width: 100px;
+  height: 100px;
+  background: white;
+  border-radius: 50%;
+  margin: 15px;
+}
